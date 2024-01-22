@@ -6,7 +6,7 @@ import Input from '../../../components/Input';
 import Checkbox from '../../../components/Checkbox';
 import Button from '../../../components/Button';
 import Seperator from '../../../components/Seperator';
-import GoogleLogin from '../../../components/GoogleLogin';
+
 
 
 const SignUp = ({navigation}) => {

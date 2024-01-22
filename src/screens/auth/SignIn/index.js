@@ -4,7 +4,6 @@ import AuthHeader from '../../../components/AuthHeader';
 import Button from '../../../components/Button';
 import Input from '../../../components/Input';
 import Seperator from '../../../components/Seperator';
-import GoogleLogin from '../../../components/GoogleLogin';
 import {styles} from './styles';
 
 const SignIn = ({navigation}) => {
