@@ -8,6 +8,7 @@ import SignIn from "./src/screens/auth/SignIn";
 import SignUp from "./src/screens/auth/SignUp";
 import ViewComponent from "./src/screens/lap 3";
 import Lap5 from "./src/screens/lap5";
+import Lap6 from "./src/screens/lap6";
 
 const App = () => {
 
@@ -21,7 +22,7 @@ const App = () => {
     //   </Stack.Navigator>
     // </NavigationContainer>
     //<ViewComponent/>
-    <Lap5></Lap5>
+    <Lap6></Lap6>
   );
 };
 
